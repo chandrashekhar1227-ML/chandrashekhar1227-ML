@@ -13,16 +13,20 @@
 
 ---
 
-<!-- Illustration on the right: add any GIF/PNG at assets/coding.gif, or delete this line -->
-<img align="right" alt="Coding" width="380" src="assets/coding.gif">
-<img align="right" alt="ML engineer at a workstation training models on GPU and TPU, leaderboard at #1" width="120" src="assets/geek-at-work.svg">
+<img align="right" alt="ML engineer at a workstation training models on GPU and TPU, leaderboard at #1" width="400" src="assets/geek-at-work.svg">
 
 - 🔭 I'm currently building **credit-risk intelligence for commercial real estate lending** at **[LenderBox.ai](https://lenderbox.ai)**
+
 - 🤖 I work on **document intelligence, citation-grounded RAG, agentic LLM workflows** and **gradient-boosting risk models** in production
+
 - 🏆 **1st Place** in the **[Deloitte × MachineHack ML Challenge](https://analyticsindiamag.com/deep-tech/meet-the-winners-of-deloitte-and-machinehacks-machine-learning-challenge)**
+
 - 🥇 **MachineHack Grandmaster** and **winner in 4 CrunchLab competitions**
+
 - 🌱 I'm currently going deeper into **LangGraph, agentic AI, and hybrid-search RAG**
+
 - 💬 Ask me about **credit-risk ML, RAG, document intelligence, feature engineering, competitive ML**
+
 - 📫 Reach me at **[chandrashekhark1227@gmail.com](mailto:chandrashekhark1227@gmail.com)**
 
 <br clear="right"/>
