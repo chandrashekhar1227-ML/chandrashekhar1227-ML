@@ -15,7 +15,7 @@
 
 <!-- Illustration on the right: add any GIF/PNG at assets/coding.gif, or delete this line -->
 <img align="right" alt="Coding" width="380" src="assets/coding.gif">
-<img align="right" alt="ML engineer at a workstation training models on GPU and TPU, leaderboard at #1" width="380" src="assets/geek-at-work.svg">
+<img align="right" alt="ML engineer at a workstation training models on GPU and TPU, leaderboard at #1" width="360" src="assets/geek-at-work.svg">
 
 - 🔭 I'm currently building **credit-risk intelligence for commercial real estate lending** at **[LenderBox.ai](https://lenderbox.ai)**
 - 🤖 I work on **document intelligence, citation-grounded RAG, agentic LLM workflows** and **gradient-boosting risk models** in production
