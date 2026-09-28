@@ -15,6 +15,7 @@
 
 <!-- Illustration on the right: add any GIF/PNG at assets/coding.gif, or delete this line -->
 <img align="right" alt="Coding" width="380" src="assets/coding.gif">
+<img align="right" alt="ML engineer at a workstation training models on GPU and TPU, leaderboard at #1" width="400" src="assets/geek-at-work.svg">
 
 - 🔭 I'm currently building **credit-risk intelligence for commercial real estate lending** at **[LenderBox.ai](https://lenderbox.ai)**
 - 🤖 I work on **document intelligence, citation-grounded RAG, agentic LLM workflows** and **gradient-boosting risk models** in production
@@ -58,15 +59,6 @@
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
   <img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SageMaker">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-     <img align="right" alt="ML engineer at a workstation training models on GPU and TPU, leaderboard at #1" width="400" src="assets/geek-at-work.svg">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekhar1227-ML&layout=compact&hide_border=true" alt="Top languages" height="165">
 </p>
 
 ---
