@@ -65,7 +65,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrashekhar1227-ML&show_icons=true&hide_border=true" alt="GitHub stats" height="165">
+     <img align="right" alt="ML engineer at a workstation training models on GPU and TPU, leaderboard at #1" width="400" src="assets/geek-at-work.svg">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekhar1227-ML&layout=compact&hide_border=true" alt="Top languages" height="165">
 </p>
 
