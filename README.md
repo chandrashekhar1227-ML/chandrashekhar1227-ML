@@ -32,7 +32,7 @@
 
 | Result | Challenge | Platform | Approach |
 |:---:|---|---|---|
-| 🥇 **1st Place** | [Deloitte Machine Learning Challenge](https://analyticsindiamag.com/deep-tech/meet-the-winners-of-deloitte-and-machinehacks-machine-learning-challenge) | MachineHack | — |
+| 🥇 **1st Place** | [Deloitte Machine Learning Challenge](https://analyticsindiamag.com/deep-tech/meet-the-winners-of-deloitte-and-machinehacks-machine-learning-challenge) | MachineHack | Model ensembling + Data Science quiz |
 | 🥇 **Rank 1 / 190** | [Message Polarity Prediction](https://github.com/chandrashekhar1227-ML/Message_Polarity_Prediction_using_CatBoost_Classifier) | MachineHack | CatBoost |
 | 🥈 **Rank 2** | [Cyberbullying Comment Detection](https://github.com/chandrashekhar1227-ML/Cyberbullying_comments_using_Roberta-Simple_Transformer-) | DPhi | RoBERTa |
 | 🥉 **Rank 3 / 85** | [Fake News Content Detection](https://github.com/chandrashekhar1227-ML/Fake_news_content_detection_using_Sentence_Transformers) | MachineHack | Sentence Transformers |
